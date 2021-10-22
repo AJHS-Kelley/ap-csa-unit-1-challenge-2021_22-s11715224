@@ -1,4 +1,4 @@
-// <robin/rachel macdonald>, AP CSA Unit 1 Challenge, Andrew Jackson High School, <10/22/2021>, <9:35>, v0.4
+// <robin/rachel macdonald>, AP CSA Unit 1 Challenge, Andrew Jackson High School, <10/22/2021>, <9:37>, v0.5
 // Peer Debugging Jordan Johnson
 import java.util.Scanner;
 
@@ -13,7 +13,7 @@ public class DamageDealt   {
         System.out.println("\n");
         System.out.println("What is the name of the monster?");
         String monsterName = myScanner.nextLine();
-    
+        System.out.println(monsterName);
     
     
     }
