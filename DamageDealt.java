@@ -3,7 +3,7 @@
 import java.util.Scanner;
 
 public class DamageDealt   {
-    public static void main(String[] args) {
+    public static void main(final String[] args) {
         Scanner myScanner = new Scanner(System.in);
         System.out.println("What is the name of the monster?");
         String monsterName = myScanner.nextLine();
